@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">-Python Developer<br>-Student</p>
+<p align="left">-Developer<br>-Student</p>
 
 ###
 
