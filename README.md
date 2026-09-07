@@ -14,9 +14,6 @@
 
 ### 🚀 Sobre mim
 
-Estou no início da carreira e aprendo construindo. Nos últimos meses venho fazendo projetos
-de verdade — APIs REST, um app fullstack, um template de CI/CD — em linguagens diferentes,
-para entender o que muda e o que se repete entre elas.
 
 - 🔭 Foco atual: back-end com **Go**, front-end com **React + TypeScript**, e boas práticas de **Docker/CI-CD**
 - 🌱 Estudando: **Java**, **Next.js** e fundamentos de **System Design**
