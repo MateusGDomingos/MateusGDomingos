@@ -71,5 +71,4 @@ para entender o que muda e o que se repete entre elas.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateusGDomingos&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGDomingos&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
 </p>
