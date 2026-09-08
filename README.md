@@ -17,7 +17,7 @@
 
 - 🔭 Foco atual: back-end com **Go**, front-end com **React + TypeScript**, e boas práticas de **Docker/CI-CD**
 - 🌱 Estudando: **Java**, **Next.js** e fundamentos de **System Design**
-- 💬 Aberto a vagas de **estágio** ou **desenvolvedor júnior** (remoto ou Poços de Caldaso)
+- 💬 Aberto a vagas de **estágio** ou **desenvolvedor júnior** (remoto ou Poços de Caldas)
 - 📫 Como me achar: [LinkedIn](https://www.linkedin.com/in/mateusgdomingos) · mateusdomingosgoncalves@gmail.com
 
 ---
