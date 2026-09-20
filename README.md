@@ -57,6 +57,7 @@
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
+| **[atalho-api](https://github.com/MateusGDomingos/atalho-api)** | Encurtador de URLs com analytics, feito como se fosse para produção: autenticação com access/refresh token (com deteção de reutilização), rate limiting, cache e contagem de cliques sem tocar na base de dados no caminho quente, além de testes de integração e Docker. | Node.js · Express 5 · Redis · SQLite |
 | **[rust-fullstack-carteira-investimentos](https://github.com/MateusGDomingos/rust-fullstack-carteira-investimentos)** | App fullstack de carteira de investimentos. Estendi o projeto base: relação N:N usuário × ativo, dashboard com valor da carteira calculado no servidor e testes de integração. | Rust · Axum · SQLx · PostgreSQL |
 | **[FORMYW](https://github.com/MateusGDomingos/FORMYW)** | API REST com CRUD, upload de arquivos, paginação e endpoint de estatísticas, com front-end em React. | Go · Gin · GORM · PostgreSQL |
 | **[ts-cicd-starter](https://github.com/MateusGDomingos/ts-cicd-starter)** | Template TypeScript com pipeline completa: lint, typecheck, testes, build e release de imagem Docker no GHCR. | TypeScript · GitHub Actions · Docker |
