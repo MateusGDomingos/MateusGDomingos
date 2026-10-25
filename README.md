@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor Fullstack Júnior</b> ·BR<br/>
-  APIs REST e interfaces web com <b>TypeScript, React, Go e Rust</b> — sempre com Docker e CI/CD.
+  APIs REST e interfaces web com <b>TypeScript, React e Java </b> — sempre com Docker e CI/CD.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 
 - 🔭 Foco atual: back-end com **Go**, front-end com **React + TypeScript**, e boas práticas de **Docker/CI-CD**
-- 🌱 Estudando: **Java**, **Next.js** e fundamentos de **System Design**
+- 🌱 Estudando: **Go**, **Next.js** e fundamentos de **System Design**
 - 💬 Aberto a vagas de **estágio** ou **desenvolvedor júnior** (remoto ou Poços de Caldas)
 - 📫 Como me achar: [LinkedIn](https://www.linkedin.com/in/mateusgdomingos) · mateusdomingosgoncalves@gmail.com
 
